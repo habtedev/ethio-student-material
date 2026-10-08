@@ -13,6 +13,7 @@
   "dependencies": {
     "@prisma/client": "^7.10.0",
     "dotenv": "^18.0.5",
+    "firebase-admin": "^14.5.0",
     "grammy": "^1.46.0",
     "lucide-react": "^1.52.0",
     "next": "16.3.8",
