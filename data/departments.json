@@ -1,0 +1,66 @@
+[
+  {
+    "id": "dept_cs_se",
+    "title": "Computer Science & Software Engineering",
+    "stream": "Natural",
+    "description": "The highest-demand technology field in Ethiopia focusing on software development lifecycle, algorithms, data structures, cloud infrastructure, web development, mobile apps, and artificial intelligence systems.",
+    "createdAt": "2026-09-08T06:58:23.932Z",
+    "updatedAt": "2026-10-08T06:58:23.932Z"
+  },
+  {
+    "id": "dept_med",
+    "title": "Medicine (MD) & Health Sciences",
+    "stream": "Natural",
+    "description": "Prestigious clinical medical education leading to Doctor of Medicine (MD) across top teaching referral hospitals (Tikur Anbessa, Jimma, Gondar, Hawassa) with deep clinical training.",
+    "createdAt": "2026-09-10T06:58:23.932Z",
+    "updatedAt": "2026-10-08T06:58:23.932Z"
+  },
+  {
+    "id": "dept_ece",
+    "title": "Electrical & Computer Engineering",
+    "stream": "Natural",
+    "description": "Comprehensive engineering degree covering communications systems, electronics, microprocessors, power generation, embedded systems, and industrial control automation.",
+    "createdAt": "2026-09-12T06:58:23.932Z",
+    "updatedAt": "2026-10-08T06:58:23.932Z"
+  },
+  {
+    "id": "dept_civil",
+    "title": "Civil & Construction Engineering",
+    "stream": "Natural",
+    "description": "Core engineering discipline responsible for designing, constructing, and maintaining roads, bridges, dams, and modern high-rise buildings across Ethiopia.",
+    "createdAt": "2026-09-14T06:58:23.932Z",
+    "updatedAt": "2026-10-08T06:58:23.932Z"
+  },
+  {
+    "id": "dept_mech",
+    "title": "Mechanical & Mechatronics Engineering",
+    "stream": "Natural",
+    "description": "Design and manufacturing of mechanical devices, thermal systems, industrial automation, robotics, HVAC, and aerospace propulsion systems.",
+    "createdAt": "2026-09-16T06:58:23.932Z",
+    "updatedAt": "2026-10-08T06:58:23.932Z"
+  },
+  {
+    "id": "dept_law",
+    "title": "School of Law (LLB)",
+    "stream": "Social",
+    "description": "Premier legal education focusing on constitutional law, criminal jurisprudence, commercial trade agreements, human rights, and Ethiopian civil code.",
+    "createdAt": "2026-09-18T06:58:23.932Z",
+    "updatedAt": "2026-10-08T06:58:23.932Z"
+  },
+  {
+    "id": "dept_accounting",
+    "title": "Accounting, Finance & Banking",
+    "stream": "Social",
+    "description": "Core financial management discipline covering accounting standards, auditing, financial markets, banking operations, taxation laws, and investment strategies.",
+    "createdAt": "2026-09-20T06:58:23.932Z",
+    "updatedAt": "2026-10-08T06:58:23.932Z"
+  },
+  {
+    "id": "dept_econ",
+    "title": "Economics & Development Studies",
+    "stream": "Social",
+    "description": "Study of resource allocation, econometric modeling, trade policy, financial systems, and macro-economic development strategies across East Africa.",
+    "createdAt": "2026-09-22T06:58:23.932Z",
+    "updatedAt": "2026-10-08T06:58:23.932Z"
+  }
+]
